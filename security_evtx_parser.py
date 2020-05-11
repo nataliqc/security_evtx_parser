@@ -1,4 +1,4 @@
-# Module that converts evtx to xml
+# Module that converts security.evtx to xml
 import Evtx.Evtx as evt
 # Module that parses xml
 import xml.etree.ElementTree as ET
